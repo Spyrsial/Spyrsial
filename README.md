@@ -22,4 +22,4 @@ Python · pandas · NumPy · Matplotlib · seaborn · Jupyter · Git
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+[LinkedIn](https://www.linkedin.com/in/spyridon-sialtsis/)
